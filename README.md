@@ -1,2 +1,2 @@
 # web-app-server
-React and Express
+React frontend, consumes Express backend server. 
